@@ -1,0 +1,85 @@
+body{
+  background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/909ad6e7-240d-44b5-baf7-a08a05caadab/defa4ia-5e636bbf-2b74-4959-9d35-b504374e1e5e.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkwOWFkNmU3LTI0MGQtNDRiNS1iYWY3LWEwOGEwNWNhYWRhYlwvZGVmYTRpYS01ZTYzNmJiZi0yYjc0LTQ5NTktOWQzNS1iNTA0Mzc0ZTFlNWUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.RJj1i-NTrJfLW2sksEBDlXAnnXgcxA2rNT4MLsG7vYM) no-repeat center fixed;
+  background-size: cover;
+}
+
+#logheader{
+  font-size: 1.8em;
+  margin-top: 20px;
+  color: #53737a;
+}
+
+#cislogo{
+  width: 150px;
+  margin-top: 30px;
+}
+
+#emailHelp{
+  text-align: left;
+  margin-left: 60px;
+}
+
+#label{
+  text-align: left;
+  margin-left: 60px;
+  color: #6c757d;
+}
+
+.form-check .form-check-input{
+  float: none;
+}
+
+.form-control{
+  width: 350px;
+  margin: auto;
+}
+
+.useri{
+  background: url("user.png") no-repeat;
+  margin-bottom: 25px;
+}
+
+.userp{
+  background: url("padlock.png") no-repeat;
+}
+
+.icon {
+  padding-left: 3em;
+  background-position: 0.9em;
+  background-size: 1.5em;
+}
+
+.login{
+  text-align: center;
+  max-width: 500px;
+  margin: 6em auto;
+  padding: 10px;
+  /* background: linear-gradient(to bottom, #9e7549, #f7d883,  #83bff7); */
+  /* background: linear-gradient(to bottom,  #f7d883,  #83bff7); */
+}
+
+.btn{
+  background: Linear-gradient(to bottom, #83bff7, #5da2e3);
+  margin-top: 15px;
+  font-size: 1.7em;
+  color: white;
+  width: 150px;
+  height: 60px;
+}
+
+.btn:hover{
+  color: white
+}
+
+
+form{
+  background-color: white;
+  border-radius: 10px;
+  max-width: 30em;
+  height: 32em;
+  border: solid 5px #f7d883;
+  border-bottom-color: #6a9dcc ;
+  border-left-color: #83bff7;
+  border-right-color: #d1b66d;
+  /* margin: 19em 0em 0em 0em; */
+}
